@@ -1,0 +1,26 @@
+{
+  "name": "ep_latexexport",
+  "description": "LaTeX Export for Etherpad Lite",
+  "homepage": "https://github.com/edy-b/ep_latexexport",
+  "keywords": [
+    "etherpad",
+    "latex",
+    "export"
+  ],
+  "author": {
+    "name": "Eduard Baun",
+    "email": "eduard@baun.de",
+    "url": "http://baun.de"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/edy-b/ep_latexexport.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

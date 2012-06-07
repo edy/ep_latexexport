@@ -1,0 +1,14 @@
+{
+  "parts": [
+    {
+      "name": "latexexport",
+      "pre": ["ep_etherpad-lite/webaccess"],
+      "hooks": {
+        "expressCreateServer": "ep_latexexport/hooks",
+        "eejsBlock_exportColumn": "ep_latexexport/hooks",
+        "eejsBlock_scripts": "ep_latexexport/hooks",
+        "eejsBlock_styles": "ep_latexexport/hooks"
+      }
+    }
+  ]
+}
