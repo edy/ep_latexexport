@@ -1,7 +1,7 @@
 {
   "name": "ep_latexexport",
   "description": "LaTeX Export for Etherpad Lite",
-  "homepage": "https://github.com/edy-b/ep_latexexport",
+  "homepage": "https://github.com/edy/ep_latexexport",
   "keywords": [
     "etherpad",
     "latex",
@@ -15,7 +15,7 @@
   "version": "1.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/edy-b/ep_latexexport.git"
+    "url": "https://github.com/edy/ep_latexexport.git"
   },
   "dependencies": {},
   "devDependencies": {},
