@@ -12,7 +12,7 @@
     "email": "eduard@baun.de",
     "url": "http://baun.de"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/edy-b/ep_latexexport.git"
